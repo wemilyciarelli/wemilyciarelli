@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem Vindo a meu perfil 😧
 
-<!--
-**wemilyciarelli/wemilyciarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é **wemily ciarelli**
 
-Here are some ideas to get you started:
+-Estou estudando no [alura] (htpps://www.alura.com.br)
+-Estou desenvolvendo a linguagem JavaScript
+-Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-### Voce pode entrar em contato comigo pelo mail 📫
+
+-wemilydosreisciarelli@gemail.com
+
+
+https://tenor.com/bIT3U.gif
